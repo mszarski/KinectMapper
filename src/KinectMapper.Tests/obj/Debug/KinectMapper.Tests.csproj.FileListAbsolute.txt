@@ -1,0 +1,16 @@
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.Tests.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.Tests.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.IO.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.PostProcessing.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.Spatial.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\OpenTK.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\xunit.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\ProjNet.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.PostProcessing.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.Spatial.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\KinectMapper.IO.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\ProjNet.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\bin\Debug\ProjNet.xml
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\obj\Debug\KinectMapper.Tests.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Tests\obj\Debug\KinectMapper.Tests.pdb

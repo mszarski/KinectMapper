@@ -1,0 +1,15 @@
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\MainWindow.baml
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\MainWindow.g.cs
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\App.g.cs
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\Kinect101_MarkupCompile.cache
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\Kinect101.g.resources
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\Kinect101.Properties.Resources.resources
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\marty\Downloads\Kinect101\Kinect101\bin\Release\Kinect101.exe
+C:\Users\marty\Downloads\Kinect101\Kinect101\bin\Release\Kinect101.pdb
+C:\Users\marty\Downloads\Kinect101\Kinect101\bin\Release\freenectdotnet.dll
+C:\Users\marty\Downloads\Kinect101\Kinect101\bin\Release\freenectdotnet.pdb
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\Kinect101.exe
+C:\Users\marty\Downloads\Kinect101\Kinect101\obj\x86\Release\Kinect101.pdb

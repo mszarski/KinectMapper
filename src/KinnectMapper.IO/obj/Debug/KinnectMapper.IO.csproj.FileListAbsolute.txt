@@ -1,0 +1,6 @@
+C:\Users\marty\Documents\KinectMapper\src\KinnectMapper.IO\bin\Debug\KinnectMapper.IO.dll
+C:\Users\marty\Documents\KinectMapper\src\KinnectMapper.IO\bin\Debug\KinnectMapper.IO.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinnectMapper.IO\bin\Debug\OpenTK.dll
+C:\Users\marty\Documents\KinectMapper\src\KinnectMapper.IO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marty\Documents\KinectMapper\src\KinnectMapper.IO\obj\Debug\KinnectMapper.IO.dll
+C:\Users\marty\Documents\KinectMapper\src\KinnectMapper.IO\obj\Debug\KinnectMapper.IO.pdb

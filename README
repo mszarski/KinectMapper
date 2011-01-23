@@ -1,0 +1,5 @@
+A real-time data capture application for generating real-world coloured point clouds with the Xbox Kinect and GPS capable Android phone.
+This is very immature and hacky - done entirely as a proof-of-concept. Please don't expect anything at all from this. No warranty of any kind is expressed or implied.
+Some of the initialisation code used in the application is courtesy of a tutorial on the C# libfreenect wrapper at SwitchOnTheCode.
+
+The project uses libfreenect and the .NET wrapper for same, along with OpenTK for the Matrix maths and Proj.NET for the spatial transforms.

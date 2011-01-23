@@ -1,0 +1,5 @@
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Spatial\bin\Debug\KinectMapper.Spatial.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Spatial\bin\Debug\KinectMapper.Spatial.pdb
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Spatial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Spatial\obj\Debug\KinectMapper.Spatial.dll
+C:\Users\marty\Documents\KinectMapper\src\KinectMapper.Spatial\obj\Debug\KinectMapper.Spatial.pdb
